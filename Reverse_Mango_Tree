@@ -1,0 +1,36 @@
+       Fruits_taken_to_home=int(input("Enter Number of fruits needed:"))
+    
+       Watchman_3_share=fruits_taken_to_home*2
+  
+       Watchman_2_share=Watchman_3_share*2
+
+       Watchman_1_share=Watchman_2_share*2
+
+       print("Watchman_3_share:", Watchman_3_share)
+
+       print("Watchman_2_share:", Watchman_2_share)
+
+       print("Watchman_1_share:", Watchman_1_share)
+
+       print("total fruits Ryan had got:", fruits_taken_to_home,"Mangoes")
+
+
+
+
+
+OBJECT:
+
+Enter Number of fruits needed:5
+Watchman_3_share: 10
+        Watchman_2_share: 20
+        Watchman_1_share: 40
+        total fruits Ryan had got: 5 Mangoes
+
+
+
+
+
+
+
+
+
