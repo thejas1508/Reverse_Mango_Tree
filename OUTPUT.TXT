@@ -1,0 +1,7 @@
+OBJECT:
+
+Enter Number of fruits needed:5
+Watchman_3_share: 10
+        Watchman_2_share: 20
+        Watchman_1_share: 40
+        total fruits Ryan had got: 5 Mangoes
